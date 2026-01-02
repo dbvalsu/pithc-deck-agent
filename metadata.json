@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Gemini Creative Studio",
+  "description": "A comprehensive creative suite for generating presentations, editing images with AI, and animating photos into videos using Gemini and Veo models.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
